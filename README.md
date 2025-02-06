@@ -7,7 +7,9 @@ XMUM, Bachelor
 xxx
 
 ### Certification
-xxx
+- xxx
+- yyy
+- zzz
 
 ### Projects
 xxx
